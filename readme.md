@@ -570,10 +570,10 @@ class JadwalGanda extends PenggantianPengawasUjian{
 
 ## Hasil Output
 
-![alt text](<Screenshot 2024-10-18 020545.png>)
+![alt text](<image/Screenshot 2024-10-18 020545.png>)
 
-![alt text](<Screenshot 2024-10-18 020602.png>)
+![alt text](<image/Screenshot 2024-10-18 020602.png>)
 
-![alt text](<Screenshot 2024-10-18 020613.png>)
+![alt text](<image/Screenshot 2024-10-18 020613.png>)
 
-![alt text](<Screenshot 2024-10-18 020623.png>)
+![alt text](<image/Screenshot 2024-10-18 020623.png>)

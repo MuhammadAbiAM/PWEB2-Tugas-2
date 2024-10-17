@@ -6,7 +6,7 @@ Proyek ini mendemonstrasikan studi kasus OOP dalam PHP.
 
 ## Studi Kasus
 
-![alt text](<Screenshot 2024-10-16 095318.png>)
+![alt text](<image/Screenshot 2024-10-16 095318.png>)
 
 ## Tugas
 

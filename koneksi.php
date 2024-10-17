@@ -43,7 +43,7 @@ class PenggantianPengawasUjian extends Database{
     }
 } 
 
-class LaporanKerjaLembur extends PenggantianPengawasUjian{
+class LaporanKerjaLembur extends Database{
     public function __construct(){
         parent::__construct();
     }
